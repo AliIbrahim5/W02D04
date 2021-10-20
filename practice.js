@@ -84,7 +84,7 @@ const renderList = () => {
   }
 
 };
-// buton22.addEventListener("click", replesa);
+// buton22.addEventListener("click", replesa);kgit
 
 renderList();
 
